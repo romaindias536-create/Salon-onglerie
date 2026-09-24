@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/((?!styles.css|booking.js|manage.js|admin.js|favicon.svg).*)", "destination": "/api/index" }
+  ]
+}
