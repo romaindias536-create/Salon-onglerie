@@ -7,7 +7,7 @@ module.exports = {
   salonName: 'Atelier Nailise',
   tagline: 'Studio de manucure & beauté des mains',
   description:
-    "Prothésiste Ongulaire"
+    "Prothésiste Ongulaire",
   address: {
     line1: '26 rue Jean-Marie Prugnot',
     postalCode: '94450',
